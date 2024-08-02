@@ -13,7 +13,6 @@ This repository contains machine learning models for predicting diabetes using S
 - [Models](#models)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -81,11 +80,6 @@ If you wish to contribute to this project, please follow these steps:
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 
 This README file provides a clear and detailed overview of your project, including installation instructions, usage guidelines, and other relevant information.
