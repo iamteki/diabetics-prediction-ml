@@ -1,6 +1,3 @@
-Sure, here’s a comprehensive README file for your diabetes prediction machine learning project:
-
-```markdown
 # Diabetes Prediction ML Model
 
 This repository contains machine learning models for predicting diabetes using Support Vector Machine (SVM) and Random Forest algorithms. The project utilizes the Pima Indians Diabetes Dataset to explore and compare the performance of these two models in predicting diabetes based on various medical predictor variables.
